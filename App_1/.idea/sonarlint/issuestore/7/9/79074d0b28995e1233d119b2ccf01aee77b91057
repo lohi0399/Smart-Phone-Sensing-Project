@@ -1,0 +1,21 @@
+
+J
+java:S1066x"/Merge this if statement with the enclosing one.(ßãÂêÿÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(“µ³Ğıÿÿÿÿ
+c
+java:S2095Ÿ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(³ğ³ğ
+˜
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞŠß±
+D
+java:S16590")Declare "classifier1" on a separate line.(‘îÏ±şÿÿÿÿ
+=	java:S131""Add a default case to this switch.(Ä°¥ıÿÿÿÿ
+D
+java:S1172–"(Remove this unused method parameter "v".(Ü¢îÀúÿÿÿÿ
+Q	java:S125—"<This block of commented-out lines of code should be removed.(¡ò¹+
+H
+java:S1874˜"1Remove this use of "startScan"; it is deprecated.(ûã£÷
+V
+java:S1117«"?Rename "wifiManager" which hides the field declared at line 56.(âáº¥
+4
+java:S1128"Remove this duplicated import.(©Ê‰è

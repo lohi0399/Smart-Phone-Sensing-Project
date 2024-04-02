@@ -1,0 +1,17 @@
+
+C
+java:S1604;"(Make this anonymous inner class a lambda(õßØµüÿÿÿÿ
+T
+java:S1854(">Remove this useless assignment to local variable "fileExists".(ÿ¹í¢
+P	java:S899(";Do something with the "boolean" value returned by "exists".(ÿ¹í¢
+E
+java:S1481("/Remove this unused "fileExists" local variable.(ÿ¹í¢
+f
+java:S1874;"KRemove this use of "setOnNavigationItemSelectedListener"; it is deprecated.(õßØµüÿÿÿÿ
+c	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî²ó
+4
+java:S1128"Remove this duplicated import.(†Ð¥Å
+9
+java:S1128"Remove this duplicated import.(Ã‘ÅÃýÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(ªº»Úýÿÿÿÿ

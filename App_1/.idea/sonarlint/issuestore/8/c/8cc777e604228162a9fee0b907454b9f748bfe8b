@@ -1,0 +1,75 @@
+
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹—×è
+C
+java:S1604q"(Make this anonymous inner class a lambda(“µ³Ğıÿÿÿÿ
+?
+java:S1604®"(Make this anonymous inner class a lambda(äéŸ€
+?
+java:S1604É"(Make this anonymous inner class a lambda(‰±ºÈ
+D
+java:S1604×"(Make this anonymous inner class a lambda(¯ëûúÿÿÿÿ
+c
+java:S2095Ö"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ıå£†
+m	java:S1168"SRename this field "StartAcc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üí‘üÿÿÿÿ
+l	java:S1169"RRename this field "StopAcc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©şÀ¨úÿÿÿÿ
+[
+java:S1659F"EDeclare "currentY" and all following declarations on a separate line.(Õç­
+r
+java:S14508"WRemove the "StartAcc" field and declare it as a local variable in the relevant methods.(Üí‘üÿÿÿÿ
+q
+java:S14509"VRemove the "StopAcc" field and declare it as a local variable in the relevant methods.(©şÀ¨úÿÿÿÿ
+l
+java:S1450C"QRemove the "aX" field and declare it as a local variable in the relevant methods.(“¶úÆûÿÿÿÿ
+l
+java:S1450D"QRemove the "aY" field and declare it as a local variable in the relevant methods.(¦¹§Ûúÿÿÿÿ
+g
+java:S1450E"QRemove the "aZ" field and declare it as a local variable in the relevant methods.(–ÉŒ
+y
+java:S1450>"cRemove the "bottomNavigationView" field and declare it as a local variable in the relevant methods.(ê¥ÎÚ
+o
+java:S14507"YRemove the "buttonRssi" field and declare it as a local variable in the relevant methods.(¿Å«ª
+d	java:S116R"ORename this field "SSID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¹€¥
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Œşÿÿÿÿ
+H
+java:S1874±"1Remove this use of "startScan"; it is deprecated.(ûã£÷
+E
+java:S1874è"/Remove this use of "execute"; it is deprecated.(“Q
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Öºèıÿÿÿÿ
+]
+java:S1854‡"FRemove this useless assignment to local variable "meanSignalStrength".(Ù’ÈË
+C
+java:S1874ù",Remove this use of "SSID"; it is deprecated.(¡áóû
+H
+java:S1874ü",Remove this use of "SSID"; it is deprecated.(ø­·­úÿÿÿÿ
+N
+java:S1481‡"7Remove this unused "meanSignalStrength" local variable.(Ù’ÈË
+W	java:S125"<This block of commented-out lines of code should be removed.(¥¹ ıÿÿÿÿ
+P
+java:S2864²"4Iterate over the "entrySet" instead of the "keySet".(¼‡ÉÆıÿÿÿÿ
+P
+java:S2864¾"4Iterate over the "entrySet" instead of the "keySet".(¼‡ÉÆıÿÿÿÿ
+K
+java:S1874Ï"/Remove this use of "execute"; it is deprecated.(²¸ÊÜùÿÿÿÿ
+A
+java:S1197Ş"*Move the array designators [] to the type.(Œ÷©
+D
+java:S1172ø"(Remove this unused method parameter "v".(¹ğáéûÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(¢•Ä
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+K
+java:S1874¼"/Remove this use of "execute"; it is deprecated.(²¸ÊÜùÿÿÿÿ
+t	java:S116Í"YRename this field "DESTINATION_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œôò–şÿÿÿÿ
+q	java:S116Ï"[Rename this field "DESTINATION_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÛ ¸
+H
+java:S1874Ë"1Remove this use of "AsyncTask"; it is deprecated.(ŠÇ•¤
+P
+java:S2130Ï"9Use "Integer.parseInt" for this string-to-int conversion.(ŸÛ ¸
+G
+java:S1068B",Remove this unused "wifiInfo" private field.(ŞñÅ€ÿÿÿÿÿ
+H
+java:S1068H"-Remove this unused "fileEmpty" private field.(ñÅ§ùÿÿÿÿ
+â
+java:S6541í"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 74 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 23 to 6.(Öºèıÿÿÿÿ
